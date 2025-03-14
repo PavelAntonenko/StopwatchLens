@@ -6,7 +6,7 @@
   PackageType: NotAPackage
   AssetDataMap:
     TypeScriptAsset: !<own> 65187ddb-6a99-4f74-9d8f-0a30055e6a6d
-  ImporterSettings: !<AssetImporterSettings/ba79dd30-dbce-4e7c-ae0f-84a5a99a0162>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   PackagePolicy: CannotBeUnpacked
   DependentFiles:
@@ -23,7 +23,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: e4e74a73-42bd-452d-8f9b-3dd162dd5690
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -37,3 +37,4 @@
   ScriptTypes:
     -
       {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

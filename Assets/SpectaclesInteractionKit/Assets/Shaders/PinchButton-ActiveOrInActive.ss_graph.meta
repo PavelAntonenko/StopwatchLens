@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/acfa21c3-b3fa-4b64-8389-c4efbd463dac>
-  ImporterSettings: !<AssetImporterSettings/ee7ef5ca-d6ed-4fdc-8704-50ce579ea779>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     ShaderGraph: !<reference> bc0911b7-5cde-41ff-8801-7fb992bab649

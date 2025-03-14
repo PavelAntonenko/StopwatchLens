@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/36383d3e-63fd-4f1b-87a2-63b433f9f4d5>
-  ImporterSettings: !<AssetImporterSettings/598da9dd-8ecb-4ea6-a542-f74b8e38e61d>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     HandTracking3DAsset: !<reference> 3ec4f93a-30e7-4707-9f7e-895215580cab

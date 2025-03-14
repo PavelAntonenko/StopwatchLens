@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 9f82af0d-11a1-414e-a2b1-e5c73b1a7566
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/2716ba6d-1f29-4472-984e-609501072a97>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 2c84c6fe-3d4e-4a1b-a0bb-66904bdaa03f
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -36,3 +36,4 @@
       {}
   InputLines:
     - // @input SceneObject scrollbarObject
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

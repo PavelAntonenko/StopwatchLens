@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/29460d70-bac5-4e65-8d49-4bdf7d9bc32d>
-  ImporterSettings: !<AssetImporterSettings/571609ab-310f-4cd6-9486-296beb03a9ff>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> ad83ff54-844d-49a8-9102-f568a9d291c3
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 10eece75-b2c1-425b-a9fd-0fe6585b41d4
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -40,3 +40,4 @@
     - // @input Asset.ObjectPrefab itemPrefab
     - // @input float itemsCount = 10
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

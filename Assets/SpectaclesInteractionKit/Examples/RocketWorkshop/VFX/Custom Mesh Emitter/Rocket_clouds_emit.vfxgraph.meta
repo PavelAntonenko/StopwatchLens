@@ -9,7 +9,7 @@
     VFXGraph: !<own> ad35f612-c784-4da2-958d-c057b1fbb687
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/129ad393-722a-4f5c-9b7c-da797444982d>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:

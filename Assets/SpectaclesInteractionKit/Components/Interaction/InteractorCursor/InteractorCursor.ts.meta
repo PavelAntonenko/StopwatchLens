@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/dcfe67e3-2a77-49c7-a40c-6cb09a6a88d3>
-  ImporterSettings: !<AssetImporterSettings/ad976899-0f0b-4f65-b328-16ad06b7488b>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> 9269b22e-25c9-41f2-adf8-4c557341e25f
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 22b40411-6621-42ce-affc-9c40ee1973e0
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -43,3 +43,4 @@
     - // @input bool enableFilter
     - // @input Component.ScriptComponent _interactor
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

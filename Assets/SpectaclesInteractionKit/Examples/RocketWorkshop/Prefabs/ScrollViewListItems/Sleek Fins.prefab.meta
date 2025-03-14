@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/24094e02-1684-4086-acdc-ac820c9c0b78>
-  ImporterSettings: !<AssetImporterSettings/e424c4fa-c6a6-46a7-938b-86097c64f63a>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     ObjectPrefab: !<reference> f2f3ca41-1bd5-4136-a5db-f3edb882b464
@@ -745,6 +745,7 @@
     x: !<float> 1.000000
     y: !<float> 1.000000
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+  RotationAngle: 0
 - !<Image/eb53d0c0-a08f-41a1-85f2-c161fac86999>
   PrefabRemaps:
     []
@@ -766,6 +767,7 @@
     x: !<float> 1.000000
     y: !<float> 1.000000
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+  RotationAngle: 0
 - !<ScreenTransform/f02ce2f7-bb56-401f-9f5b-69adeaf1e0a9>
   PrefabRemaps:
     []

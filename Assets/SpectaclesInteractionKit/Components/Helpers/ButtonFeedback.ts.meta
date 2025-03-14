@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 0c12c755-f42d-429b-bbb7-a9ce226d0a90
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/301819a9-b6b7-4fca-ad83-f0af8e5ffb7d>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 0c3c1f67-6bb8-43c9-9772-33b8ab2e5b74
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -103,3 +103,4 @@
     - '// @ui {"widget":"separator"}'
     - // @input Asset.Texture _defaultIcon
     - // @input Asset.Texture onIcon
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

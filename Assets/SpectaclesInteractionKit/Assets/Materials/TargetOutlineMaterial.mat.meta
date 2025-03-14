@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/93e258d3-34d8-4ec8-a304-4e09a3044b91>
-  ImporterSettings: !<AssetImporterSettings/3a7ce0f0-7613-427f-8332-77981fef887e>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     Material: !<reference> ae367e71-ee3a-45a1-8095-d0d2321b902e

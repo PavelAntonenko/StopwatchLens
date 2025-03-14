@@ -4,7 +4,7 @@
   ImporterName: MaterialImporter
   PrimaryAsset: !<reference> e9a54599-e28b-4cfe-b14c-2ec3256020aa
   PackageType: NotAPackage
-  ImporterSettings: !<AssetImporterSettings/a011202f-50c5-4089-bde9-32654899447e>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   AssetDataMap:
     Material: !<own> 00000000-0000-0000-0000-000000000000

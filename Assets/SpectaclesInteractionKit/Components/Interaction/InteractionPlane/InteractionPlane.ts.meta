@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 9b8e0750-02a2-43e5-be2e-b953aebee549
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/629456c5-1c1d-4b28-9bf8-fd5681c7a7d5>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: f40e8d58-a60c-45fb-a9db-8a2f7f12276d
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -41,7 +41,8 @@
     -
       {}
   InputLines:
-    - // @input vec2 _planeSize
+    - "// @input vec2 _planeSize = {10,10}"
     - // @input float _proximityDistance
     - // @input bool _drawDebug
     - // @input float _behindDistance
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

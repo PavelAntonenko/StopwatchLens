@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/630355ad-6c27-41ae-be18-8b9e450d9c14>
-  ImporterSettings: !<AssetImporterSettings/0cacb3ff-6368-4988-8943-6388f22e8065>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> b5593251-a0da-4491-8561-2e0dccd715bc
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 923708e1-fcdb-4a35-bd76-f0d95beb6a6a
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -49,8 +49,9 @@
     - // @input bool _xAxisEnabled
     - // @input bool _yAxisEnabled = true
     - // @input bool _zAxisEnabled
-    - '// @input vec3 _axisBufferDegrees {"hint":"How big the angle must be to start rotating about that axis"}'
-    - '// @input vec3 _axisEasing {"hint":"How fast the target should rotate to follow camera, instant follow = 1, delay follow = 0.1"}'
+    - '// @input vec3 _axisBufferDegrees = {0,0,0} {"hint":"How big the angle must be to start rotating about that axis"}'
+    - '// @input vec3 _axisEasing = {1,1,1} {"hint":"How fast the target should rotate to follow camera, instant follow = 1, delay follow = 0.1"}'
     - '// @input float duration = 0.033 {"hint":"Decrecated. Please use the property Axis Easing to adjust the rotation speed"}'
     - '// @ui {"widget":"group_end"}'
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

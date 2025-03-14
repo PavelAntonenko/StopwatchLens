@@ -6,9 +6,9 @@
   PackageType: NotAPackage
   AssetDataMap:
     {}
-  ImporterSettings: !<AssetImporterSettings/8acfb8a5-8ded-4e1f-8848-224d04cde4f7>
+  ImporterSettings: !<AssetImporterSettings>
     {}
-  CompressionSettings: !<SingleCompressionSettings/e9556aff-363a-4a8d-bc94-5418f60369cb>
+  CompressionSettings: !<SingleCompressionSettings>
     CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
     CompressorName: None
   PackagePolicy: CannotBeUnpacked

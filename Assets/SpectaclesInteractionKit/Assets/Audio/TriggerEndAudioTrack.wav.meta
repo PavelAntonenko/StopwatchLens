@@ -4,7 +4,7 @@
   ImporterName: FileAudioTrackImporter
   PrimaryAsset: !<reference> 7b58983a-a4ca-417f-8171-2a074e30c6d1
   PackageType: NotAPackage
-  ImporterSettings: !<AssetImporterSettings/5eee54a9-4818-45e1-9b8b-f59d5e6759cf>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   AssetDataMap:
     FileAudioTrack: !<own> 00000000-0000-0000-0000-000000000000

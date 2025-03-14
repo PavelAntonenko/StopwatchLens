@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/c549b7bf-1f23-4a0a-9759-a4aa9bf43c20>
-  ImporterSettings: !<AssetImporterSettings/da541456-6b08-4de9-b0ec-968e5655f838>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> c973d211-281b-4016-ae39-e12f3317bcae
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 11a53086-7549-4d6e-b334-9ba36ff3c455
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -46,3 +46,4 @@
     - // @input bool isScrollable
     - // @input bool allowMultipleInteractors = true
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

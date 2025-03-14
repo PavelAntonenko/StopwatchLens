@@ -4,7 +4,7 @@
   ImporterName: ShaderGraphPassImporter
   PrimaryAsset: !<reference> d078f682-530c-42dd-9988-3f029ffdf6e6
   PackageType: NotAPackage
-  ImporterSettings: !<AssetImporterSettings/d24186b1-ed79-4567-a338-329db975d173>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   AssetDataMap:
     ShaderGraph: !<own> 00000000-0000-0000-0000-000000000000

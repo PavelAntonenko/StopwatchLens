@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/680fb608-64c4-4aea-9cd8-0d0c9c9d4743>
-  ImporterSettings: !<AssetImporterSettings/dccbb674-e521-45d3-8880-c129fd6f40b2>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> b5f70408-5d57-4afd-996b-8f26ae0ddcb2
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 080b81e3-42c4-42a8-8e5d-eec8fa09aa55
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -92,3 +92,4 @@
     - '// @input bool filterBasedOnIntent {"hint":"If true far field interactions will be disable when your hand is not in an interacting pose."}'
     - '// @ui {"widget":"group_end"}'
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

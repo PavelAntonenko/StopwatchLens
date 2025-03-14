@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> bab377e8-f1c4-49b7-85eb-435aae2220ff
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/69f1cd55-d592-4824-ba75-0d0768357b02>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 4f8b4fc1-8807-4fd9-8946-f873ac004f77
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -39,4 +39,5 @@
       {}
   InputLines:
     - // @input RocketConfigurator rocketConfigurator
-    - "// @input Asset.ObjectPrefab[] objectPrefabs"
+    - "// @input Asset.ObjectPrefab[] objectPrefabs = {}"
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

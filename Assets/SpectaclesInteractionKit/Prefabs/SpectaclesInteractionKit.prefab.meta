@@ -4,7 +4,7 @@
   ImporterName: ObjectPrefabImporter
   PrimaryAsset: !<reference> f8de076e-14c5-4869-815e-97dfb35529e7
   PackageType: NotAPackage
-  ImporterSettings: !<AssetImporterSettings/18d2781d-18fb-4e1f-9981-35c49221a1ed>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   AssetDataMap:
     ObjectPrefab: !<own> d6b19b5c-56aa-439c-a1e7-b42fc1dd6fe0

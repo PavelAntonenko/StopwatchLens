@@ -23,7 +23,7 @@
     Scene: !<own> 02b4419f-46fc-4a73-8207-b7941db0c8db
   DependentFiles:
     []
-  ImporterSettings: !<FbxImporterSettings/b7495b5d-b1c3-4bd3-8778-19c6fe237eeb>
+  ImporterSettings: !<FbxImporterSettings>
     UseLegacyImporter: false
     WithMaterials: true
     NamingConvention: ByCategory
@@ -39,9 +39,9 @@
     TriangulateNURBS: true
     UseLegacyFbxLoader: false
     PersistentIdGenerationAlgorithm: Legacy
-  CompressionSettings: !<ComplexCompressionSettings/4864edc1-04f6-48c3-b5cb-db6c21fa8b76>
+  CompressionSettings: !<ComplexCompressionSettings>
     Presets:
-      None Compression: !<SingleCompressionSettings/5b50fbc8-c701-4a7e-bd4d-aab6f2721c17>
+      None Compression: !<SingleCompressionSettings>
         CompressorName: None
         CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
     ExtensionMappings:

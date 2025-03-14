@@ -9,13 +9,13 @@
     {}
   DependentFiles:
     []
-  ImporterSettings: !<FileMeshImporterSettings/a6768b79-e475-4521-9ef9-b26a1993ac55>
+  ImporterSettings: !<FileMeshImporterSettings>
     ModifiedVertexFormats:
       boneData: Float
       color: UNorm Byte
       normal: Float
       position: Float
-  CompressionSettings: !<SingleCompressionSettings/e78d34e4-e5ce-4730-b6d5-582cc2ab48c5>
+  CompressionSettings: !<SingleCompressionSettings>
     CompressorName: None
     CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:

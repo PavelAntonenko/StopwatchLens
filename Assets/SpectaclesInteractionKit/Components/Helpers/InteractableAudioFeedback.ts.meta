@@ -1,5 +1,5 @@
 - !<AssetImportMetadata/f7f5abe0-e538-4dcc-8864-b5629daf22d4>
-  ImporterSettings: !<AssetImporterSettings/47287190-dbcc-4ec9-a9fb-2629c05cfc44>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   ImportedAssetIds:
     TypeScriptAsset: !<reference> c57fd4b4-b5d5-4eae-b45c-2f62c57e2bc3
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 0191216d-6d87-4c2a-aa3d-3f4607a954a2
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -43,3 +43,4 @@
     - '// @input Asset.AudioTrackAsset triggerStartAudioTrack {"hint":"This sound will play when starting the trigger the Interactable"}'
     - '// @input Asset.AudioTrackAsset triggerEndAudioTrack {"hint":"This sound will play when ending the trigger of the Interactable"}'
   SvgIcon: ""
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
