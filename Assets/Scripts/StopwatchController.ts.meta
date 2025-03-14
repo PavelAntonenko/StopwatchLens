@@ -1,0 +1,65 @@
+- !<AssetImportMetadata/e95d17b1-1863-436d-adac-c48420c0b6f3>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 00279b2d-00a3-4927-87f1-351ab4ba23cc
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 00279b2d-00a3-4927-87f1-351ab4ba23cc
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 68809ca6-eb50-42fd-ab93-20586a29abfa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/20f7e37e-3b8c-408a-aed0-8f40486211ed>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/68809ca6-eb50-42fd-ab93-20586a29abfa>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    backFromInfoButton: false
+    infoButton: false
+    infoScreen: false
+    mainScreen: false
+    resetButton: false
+    saveTimeButton: false
+    savedTimeText1: false
+    savedTimeText2: false
+    startStopButton: false
+    stopWatchText: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - startStopButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      stopWatchText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      resetButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      saveTimeButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      savedTimeText2: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      savedTimeText1: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      mainScreen: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      infoScreen: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      infoButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      backFromInfoButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Text stopWatchText
+    - // @input Component.Text savedTimeText1
+    - // @input Component.Text savedTimeText2
+    - // @input SceneObject mainScreen
+    - // @input SceneObject infoScreen
+    - // @input SceneObject startStopButton
+    - // @input SceneObject resetButton
+    - // @input SceneObject saveTimeButton
+    - // @input SceneObject infoButton
+    - // @input SceneObject backFromInfoButton
